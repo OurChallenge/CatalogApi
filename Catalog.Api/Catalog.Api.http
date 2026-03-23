@@ -1,0 +1,6 @@
+@Catalog_Api_HostAddress = http://localhost:5085
+
+GET {{Catalog_Api_HostAddress}}/swagger/index.html
+Accept: application/json
+
+###

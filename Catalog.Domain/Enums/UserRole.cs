@@ -1,4 +1,4 @@
-﻿namespace FIAP_Cloud_Games.Domain.Enums;
+namespace Catalog.Domain.Enums;
 
 public enum UserRole
 {
